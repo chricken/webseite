@@ -5,7 +5,7 @@ const elements = {};
 
 // FUNKTIONEN
 const domMapping = () => {
-
+    // Hier coolen Code einfügen
 }
 
 const appendEventlisteners = () => {
